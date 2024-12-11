@@ -1,0 +1,1 @@
+# firestore-nextjs-zod
