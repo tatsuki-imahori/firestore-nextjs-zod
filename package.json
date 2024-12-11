@@ -1,5 +1,5 @@
 {
-  "name": "fireschema-firestore-nextjs",
+  "name": "firestore-nextjs-zod",
   "version": "0.1.0",
   "private": true,
   "scripts": {
